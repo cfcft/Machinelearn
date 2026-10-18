@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MachineLearn/MachineLearn.csproj" />
+  <Project Path="MachineLearnDatatcollection/MachineLearnDatatcollection.csproj" Id="b3aad237-d941-4b61-a615-85ca5e362543" />
+  <Project Path="MachineSetting/MachineSetting.csproj" Id="5dd55355-d3f5-4bf1-8b93-4839521244e1" />
+</Solution>

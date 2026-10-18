@@ -1,0 +1,16 @@
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\MachineLearnDatatcollection.csproj.AssemblyReference.cache
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\Views\DataCollectionView.baml
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\Views\DataCollectionView.g.cs
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\MachineLearnDatatcollection_MarkupCompile.cache
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\MachineLearnDatatcollection.g.resources
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\MachineLearnDatatcollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\MachineLearnDatatcollection.AssemblyInfoInputs.cache
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\MachineLearnDatatcollection.AssemblyInfo.cs
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\MachineLearnDatatcollection.csproj.CoreCompileInputs.cache
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\bin\Debug\net9.0-windows7.0\MachineLearnDatatcollection.deps.json
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\bin\Debug\net9.0-windows7.0\MachineLearnDatatcollection.dll
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\bin\Debug\net9.0-windows7.0\MachineLearnDatatcollection.pdb
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\MachineLearnDatatcollection.dll
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\refint\MachineLearnDatatcollection.dll
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\MachineLearnDatatcollection.pdb
+D:\learningsource\MachineLearn\MachineLearnDatatcollection\obj\Debug\net9.0-windows7.0\ref\MachineLearnDatatcollection.dll
