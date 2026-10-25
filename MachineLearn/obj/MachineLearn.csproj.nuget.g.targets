@@ -10,6 +10,7 @@
     <Import Project="$(NuGetPackageRoot)prism.core\9.0.537\buildTransitive\Prism.Core.targets" Condition="Exists('$(NuGetPackageRoot)prism.core\9.0.537\buildTransitive\Prism.Core.targets')" />
     <Import Project="$(NuGetPackageRoot)prism.container.unity\9.0.106\buildTransitive\Prism.Container.Unity.targets" Condition="Exists('$(NuGetPackageRoot)prism.container.unity\9.0.106\buildTransitive\Prism.Container.Unity.targets')" />
     <Import Project="$(NuGetPackageRoot)prism.unity\9.0.537\buildTransitive\Prism.Unity.targets" Condition="Exists('$(NuGetPackageRoot)prism.unity\9.0.537\buildTransitive\Prism.Unity.targets')" />
+    <Import Project="$(NuGetPackageRoot)npoi\2.8.1\build\NPOI.targets" Condition="Exists('$(NuGetPackageRoot)npoi\2.8.1\build\NPOI.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.extensions.options\8.0.2\buildTransitive\net6.0\Microsoft.Extensions.Options.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.options\8.0.2\buildTransitive\net6.0\Microsoft.Extensions.Options.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\8.0.2\buildTransitive\net6.0\Microsoft.Extensions.Logging.Abstractions.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\8.0.2\buildTransitive\net6.0\Microsoft.Extensions.Logging.Abstractions.targets')" />
   </ImportGroup>

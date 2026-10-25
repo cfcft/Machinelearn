@@ -60,7 +60,7 @@ namespace MachineLearn.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MachineLearn;component/controls/nativepager.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MachineLearn;V1.0.0.0;component/controls/nativepager.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Controls\NativePager.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

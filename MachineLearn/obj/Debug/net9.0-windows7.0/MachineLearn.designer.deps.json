@@ -589,6 +589,14 @@
           }
         }
       },
+      "SqlSugar/5.1.4.207": {
+        "runtime": {
+          "lib/SqlSugar.dll": {
+            "assemblyVersion": "5.1.4.207",
+            "fileVersion": "5.1.4.207"
+          }
+        }
+      },
       "System.Configuration.ConfigurationManager/4.4.1": {
         "dependencies": {
           "System.Security.Cryptography.ProtectedData": "4.4.0"
@@ -683,6 +691,14 @@
           "lib/netcoreapp3.0/Unity.Container.dll": {
             "assemblyVersion": "5.11.11.0",
             "fileVersion": "5.11.11.0"
+          }
+        }
+      },
+      "YamlDotNet/18.1.0": {
+        "runtime": {
+          "lib/net8.0/YamlDotNet.dll": {
+            "assemblyVersion": "18.0.0.0",
+            "fileVersion": "18.1.0.0"
           }
         }
       }
@@ -1004,6 +1020,13 @@
       "path": "sqlitepclraw.provider.e_sqlite3/2.1.6",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512"
     },
+    "SqlSugar/5.1.4.207": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3z/WVHmNJhJEUNd/an6uj+8H3LpQTvEeA1LSdW6KOwY9CpUG23w89526HW+Y71/0WPJKQ6D02ML5pUox66zMwg==",
+      "path": "sqlsugar/5.1.4.207",
+      "hashPath": "sqlsugar.5.1.4.207.nupkg.sha512"
+    },
     "System.Configuration.ConfigurationManager/4.4.1": {
       "type": "package",
       "serviceable": true,
@@ -1059,6 +1082,13 @@
       "sha512": "sha512-47u4MBG8hxV2ZBUK7LlXcZQW8yWSqUSCRG+2/TBA2CSkxkQlMfVUJ0RJODJsZgsiSgy4N0M8HIr7J88drYR/OQ==",
       "path": "unity.container/5.11.11",
       "hashPath": "unity.container.5.11.11.nupkg.sha512"
+    },
+    "YamlDotNet/18.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5K+9KFg2TdTl7VXv88Qzi/0lqK6JFoNP3lRuImPYGRV7K/QYklDyTrj4+A+KAki1JsQi6qKY+hDyY7d6WRqjrw==",
+      "path": "yamldotnet/18.1.0",
+      "hashPath": "yamldotnet.18.1.0.nupkg.sha512"
     }
   }
 }

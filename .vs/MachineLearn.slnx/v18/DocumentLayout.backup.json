@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "D:\\learningsource\\MachineLearn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|d:\\learningsource\\machinelearn\\machinelearn\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|solutionrelative:machinelearn\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|d:\\learningsource\\machinelearn\\machinelearn\\controls\\nativepager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|solutionrelative:machinelearn\\controls\\nativepager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|d:\\learningsource\\machinelearn\\machinelearn\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|solutionrelative:machinelearn\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|d:\\learningsource\\machinelearn\\machinelearn\\xmltype\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|solutionrelative:machinelearn\\xmltype\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|d:\\learningsource\\machinelearn\\machinelearn\\xmltype\\soap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|solutionrelative:machinelearn\\xmltype\\soap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|d:\\learningsource\\machinelearn\\machinelearn\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|solutionrelative:machinelearn\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|d:\\learningsource\\machinelearn\\machinelearn\\lang\\languageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|solutionrelative:machinelearn\\lang\\languageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|d:\\learningsource\\machinelearn\\machinelearn\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|solutionrelative:machinelearn\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|d:\\learningsource\\machinelearn\\machinelearn\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|solutionrelative:machinelearn\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|d:\\learningsource\\machinelearn\\machinelearn\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|solutionrelative:machinelearn\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|d:\\learningsource\\machinelearn\\machinelearn\\controls\\nativepager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|solutionrelative:machinelearn\\controls\\nativepager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{517C8724-2B40-53EC-58BB-35C563195169}|MachineLearn\\MachineLearn.csproj|d:\\learningsource\\machinelearn\\machinelearn\\controls\\nativepager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -130,95 +122,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MachineLearn\\Views\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MachineLearn\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwCsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T12:35:15.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Soap.cs",
-              "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\XmlType\\Soap.cs",
-              "RelativeDocumentMoniker": "MachineLearn\\XmlType\\Soap.cs",
-              "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\XmlType\\Soap.cs",
-              "RelativeToolTip": "MachineLearn\\XmlType\\Soap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T05:45:51.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetUserResponse.cs",
-              "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\XmlType\\GetUserResponse.cs",
-              "RelativeDocumentMoniker": "MachineLearn\\XmlType\\GetUserResponse.cs",
-              "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\XmlType\\GetUserResponse.cs",
-              "RelativeToolTip": "MachineLearn\\XmlType\\GetUserResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T05:39:03.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\App.xaml.cs",
               "RelativeDocumentMoniker": "MachineLearn\\App.xaml.cs",
               "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\App.xaml.cs",
               "RelativeToolTip": "MachineLearn\\App.xaml.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAkwBwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB0AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T13:15:08.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NativePager.xaml",
-              "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Controls\\NativePager.xaml",
-              "RelativeDocumentMoniker": "MachineLearn\\Controls\\NativePager.xaml",
-              "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\Controls\\NativePager.xaml",
-              "RelativeToolTip": "MachineLearn\\Controls\\NativePager.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-17T08:56:37.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Views\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MachineLearn\\Views\\MainWindow.xaml",
-              "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "MachineLearn\\Views\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-16T13:55:56.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NativePager.xaml.cs",
-              "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Controls\\NativePager.xaml.cs",
-              "RelativeDocumentMoniker": "MachineLearn\\Controls\\NativePager.xaml.cs",
-              "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\Controls\\NativePager.xaml.cs",
-              "RelativeToolTip": "MachineLearn\\Controls\\NativePager.xaml.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAYwHAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T08:56:41.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "LanguageConverter.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Lang\\LanguageConverter.cs",
               "RelativeDocumentMoniker": "MachineLearn\\Lang\\LanguageConverter.cs",
@@ -230,7 +146,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "NativePager.xaml.cs",
+              "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Controls\\NativePager.xaml.cs",
+              "RelativeDocumentMoniker": "MachineLearn\\Controls\\NativePager.xaml.cs",
+              "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\Controls\\NativePager.xaml.cs",
+              "RelativeToolTip": "MachineLearn\\Controls\\NativePager.xaml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T08:56:41.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NativePager.xaml",
+              "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Controls\\NativePager.xaml",
+              "RelativeDocumentMoniker": "MachineLearn\\Controls\\NativePager.xaml",
+              "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\Controls\\NativePager.xaml",
+              "RelativeToolTip": "MachineLearn\\Controls\\NativePager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-17T08:56:37.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MachineLearn\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "MachineLearn\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-16T13:55:56.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "MachineLearn\\ViewModels\\MainWindowViewModel.cs",
@@ -242,19 +192,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MachineLearn\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MachineLearn\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:35:15.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PrismPager.xaml",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Controls\\PrismPager.xaml",
               "RelativeDocumentMoniker": "MachineLearn\\Controls\\PrismPager.xaml",
               "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\Controls\\PrismPager.xaml",
               "RelativeToolTip": "MachineLearn\\Controls\\PrismPager.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-17T08:56:53.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T08:56:53.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "PrismPagerViewModel.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Controls\\PrismPagerViewModel.cs",
               "RelativeDocumentMoniker": "MachineLearn\\Controls\\PrismPagerViewModel.cs",
@@ -266,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "LocalizationManager.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Lang\\LocalizationManager.cs",
               "RelativeDocumentMoniker": "MachineLearn\\Lang\\LocalizationManager.cs",
@@ -278,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "selflearn1.xaml",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineSetting\\Views\\selflearn1.xaml",
               "RelativeDocumentMoniker": "MachineSetting\\Views\\selflearn1.xaml",
@@ -289,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Usersetting.xaml",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineSetting\\Views\\Usersetting.xaml",
               "RelativeDocumentMoniker": "MachineSetting\\Views\\Usersetting.xaml",
@@ -300,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "MenuModel.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Model\\MenuModel.cs",
               "RelativeDocumentMoniker": "MachineLearn\\Model\\MenuModel.cs",
@@ -312,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "Control1.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Control1.cs",
               "RelativeDocumentMoniker": "MachineLearn\\Control1.cs",
@@ -324,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "DataCollectionViewModel.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearnDatatcollection\\ViewModels\\DataCollectionViewModel.cs",
               "RelativeDocumentMoniker": "MachineLearnDatatcollection\\ViewModels\\DataCollectionViewModel.cs",
@@ -336,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "MachineSetting.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineSetting\\MachineSetting.cs",
               "RelativeDocumentMoniker": "MachineSetting\\MachineSetting.cs",
@@ -348,19 +309,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Dictionary1.xaml",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\Dictionary1.xaml",
               "RelativeDocumentMoniker": "MachineLearn\\Dictionary1.xaml",
               "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\Dictionary1.xaml",
               "RelativeToolTip": "MachineLearn\\Dictionary1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-15T13:27:53.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T13:27:53.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "DataCollectionModule.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearnDatatcollection\\DataCollectionModule.cs",
               "RelativeDocumentMoniker": "MachineLearnDatatcollection\\DataCollectionModule.cs",
@@ -372,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "DataCollectionView.xaml",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearnDatatcollection\\Views\\DataCollectionView.xaml",
               "RelativeDocumentMoniker": "MachineLearnDatatcollection\\Views\\DataCollectionView.xaml",
@@ -383,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -393,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "MachineLearn",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\MachineLearn.csproj",
               "RelativeDocumentMoniker": "MachineLearn\\MachineLearn.csproj",
@@ -404,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 26,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearnDatatcollection\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MachineLearnDatatcollection\\MainWindow.xaml.cs",
@@ -416,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\UserDto.cs",
               "RelativeDocumentMoniker": "MachineLearn\\UserDto.cs",
@@ -428,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\User.cs",
               "RelativeDocumentMoniker": "MachineLearn\\User.cs",
@@ -440,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 25,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearnDatatcollection\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MachineLearnDatatcollection\\MainWindow.xaml",
@@ -451,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "MachineLearn\\AssemblyInfo.cs",
@@ -463,15 +423,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\learningsource\\MachineLearn\\MachineLearn\\App.xaml",
               "RelativeDocumentMoniker": "MachineLearn\\App.xaml",
               "ToolTip": "D:\\learningsource\\MachineLearn\\MachineLearn\\App.xaml",
               "RelativeToolTip": "MachineLearn\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-15T13:11:54.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T13:11:54.511Z"
             }
           ]
         }
